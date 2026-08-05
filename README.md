@@ -188,7 +188,7 @@ CanSat-GCS
 Clone the repository
 
 ```bash
-git clone https://github.com/MayukhPal/CanSat-Ground-Control-Software.git
+git clone https://github.com/ghoshhindola5-a11y/Cansat-Project.git
 ```
 
 Open
@@ -218,7 +218,7 @@ No installation or dependencies are required.
 
 # 👨‍💻 Author
 
-**Mayukh Pal**
+**Hindola Ghosh**
 
 B.Tech in Computer Science & Engineering
 
